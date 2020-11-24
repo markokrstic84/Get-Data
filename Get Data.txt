@@ -1,0 +1,24 @@
+Name: Ebonie Rangel
+Adress: 7175 Yukon Street
+Phone: (507) 833-3567
+Course: Geography
+
+Name: Keenan Ellwood
+Adress: 2 Elm Lane
+Phone: (894) 831-6482
+Coursed: History
+
+Name: Kailan Smart
+Adress: 795 Harvard Street
+Phone: (925) 856-5167
+Course: Biology
+
+Name: Kaydan Hirst
+Adress:9 East Lakeview Ave.
+Phone: (939) 812-6141
+Course: Programming
+
+Name: Isabelle Prentice
+Adress:700 Rock Maple St.
+Phone: (899) 875-8627
+Course: Math
